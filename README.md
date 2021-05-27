@@ -20,7 +20,7 @@
 - pm2 stop 0 停止指定进程
 - pm2 delete 0 杀死指定进程
 - pm2 restart 0 重启所有进程
-=======
+
 # download-guide
 ## 一个下载引导页
 
