@@ -1,5 +1,5 @@
 ## 一个下载引导页
-
+> 一个用于指导用户下载客户端软件及指导用户使用的一个网站，独立于主系统之外。这里主要用到node后台技术来实现功能。
 ### 技术：node + express + pm2 + jade + morgan
 > - node:一个开源与跨平台的 JavaScript 运行时环境；
 > - express:基于node平台的web应用开发框架；
