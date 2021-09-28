@@ -45,3 +45,5 @@
 - pm2 delete 0 杀死指定进程
 - pm2 restart 0 重启所有进程
 
+效果展示：
+![1](https://github.com/LuckyCenter/download-guide/blob/main/ScreenShots/1.png?raw=true)
